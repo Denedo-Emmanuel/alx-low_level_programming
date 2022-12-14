@@ -5,7 +5,7 @@
  * Description: print all alphabet in lowercase \n
  * Return: void
  */
-void print_alphabet(void)
+print_alphabet(void)
 {
 	char alpha;
 
